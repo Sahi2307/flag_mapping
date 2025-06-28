@@ -1,4 +1,4 @@
-# 🏁 Flag Pattern Warping & Blending App
+# 🏁 Flag Pattern Warping & Blending 
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-red)
@@ -9,11 +9,11 @@ An interactive web application that allows users to **map any pattern onto a fla
 
 ## ✨ Features
 
-✅ Warp a pattern image onto the folds of a flag  
-✅ Preserve realistic deformation using image gradients  
-✅ Smooth alpha blending with opacity control  
-✅ Interactive drag-and-drop image upload  
-✅ Built using only open-source Python libraries
+Warp a pattern image onto the folds of a flag  
+Preserve realistic deformation using image gradients  
+Smooth alpha blending with opacity control  
+Interactive drag-and-drop image upload  
+Built using only open-source Python libraries
 
 ---
 
@@ -125,6 +125,6 @@ Thanks to the open-source community and the developers of:
 
 ---
 
-> *Built with ❤️ for creative image processing*
+*Built with ❤️ for creative image processing*
 
 ```
