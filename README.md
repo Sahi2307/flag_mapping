@@ -1,7 +1,3 @@
-Here’s a more **professional and detailed version** of your `README.md`, suitable for showcasing the project on GitHub or in a portfolio. It includes sections like badges, table of contents, enhanced usage instructions, contribution guidelines, and licensing clarity.
-
----
-
 ````markdown
 # 🏁 Flag Pattern Warping & Blending App
 
@@ -10,20 +6,6 @@ Here’s a more **professional and detailed version** of your `README.md`, suita
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 An interactive web application that allows users to **map any pattern onto a flag image** realistically by warping, blending, and shading. Powered by **Streamlit**, **OpenCV**, and **NumPy**, this app gives users a smooth, browser-based image processing experience.
-
----
-
-## 📚 Table of Contents
-
-- [Features](#-features)
-- [Demo](#-demo)
-- [Project Structure](#-project-structure)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Example Output](#-example-output)
-- [Technologies Used](#-technologies-used)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -52,11 +34,12 @@ Once running, visit: [http://localhost:8501](http://localhost:8501)
 ## 📁 Project Structure
 
 ```plaintext
-flag_mapping_project/
-├── script.py          # Main Streamlit application
-├── README.md          # Project documentation
-├── flag.png           # Sample flag image
-├── pattern.png        # Sample pattern image
+flag_mapping/
+├── script.py          
+├── README.md          
+├── flag.png           
+├── pattern.png        
+├── requirements.txt
 ```
 
 ---
@@ -66,8 +49,8 @@ flag_mapping_project/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/flag-mapping-app.git
-cd flag-mapping-app
+git clone https://github.com/Sahi2307/flag_mapping.git
+cd flag_mapping
 ```
 
 ### 2️⃣ Install Dependencies
@@ -103,14 +86,6 @@ Then:
    * Warp the pattern onto the folds of the flag
    * Apply realistic shading and blending
 4. View/download the final output directly from the UI
-
----
-
-## 🖼️ Example Output
-
-| Flag Image                | Pattern Image                   | Final Output                  |
-| ------------------------- | ------------------------------- | ----------------------------- |
-| ![flag](flag_example.png) | ![pattern](pattern_example.png) | ![output](output_example.png) |
 
 ---
 
@@ -155,6 +130,3 @@ Thanks to the open-source community and the developers of:
 > *Built with ❤️ for creative image processing*
 
 ```
-
-
-
